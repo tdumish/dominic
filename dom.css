@@ -1,0 +1,31 @@
+main {
+    column-count: 2;
+    margin: 20px;
+    border: 2px solid blue;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+h3 {
+    border-bottom: 3px solid blue;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.head {
+    margin: auto;
+    width: 40%;
+}
+
+.flex-container {
+    display: flex;
+    margin-bottom: 60px;
+}
+
+#pix {
+    padding: 20px;
+}
+
+img {
+    border-radius: 50%;
+}
